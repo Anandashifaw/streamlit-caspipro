@@ -9,7 +9,7 @@ with st.sidebar:
 
 model = pickle.load(open('estimasi_mobil.sav', 'rb'))
 
-st.title(':car: Car Sales Price :orange[Prediction] :oncoming_automobile:')
+st.title(':car: Car Sales Price Prediction :oncoming_automobile:')
 st.markdown(":oncoming_automobile: Mari Kita Memprediksi Harga Mobil :oncoming_automobile:")
 
 year = st.number_input('Input Tahun Mobil')
