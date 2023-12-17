@@ -7,7 +7,7 @@ with st.sidebar:
     st.write("Hello, I'm a Car Sales Price Prediction Dashboard!")
     st.write("Made by Group 1 Science :rocket:")
     
-st.title(':car: Car Sales Price :orange[Prediction] :oncoming_automobile: :scales:')
+st.title(':car: Car Sales Price Prediction :oncoming_automobile: :scales:')
 st.markdown(f"""
             <div style="text-align:center;">Tren konsumen yang cepat berubah, perubahan kondisi ekonomi, dan faktor-faktor eksternal lainnya membuat sulit untuk menghasilkan prediksi harga penjualan mobil yang akurat dengan metode tradisional. Solusi ini dirancang untuk menghasilkan prediksi harga penjualan mobil dengan tepat, produsen dan dealer mobil dapat memperoleh informasi tentang harga penjualan mobil secara akurat.
             </div>
